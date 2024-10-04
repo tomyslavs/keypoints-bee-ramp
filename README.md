@@ -1,4 +1,4 @@
-# Keypoints detection models for bee and ramp detecction
+# Keypoints detection models for bee and ramp detection
 YOLOv8-pose models to detect:
 1) bee's head and stinger using two keypoints.
 2) corners of entrance ramp using 4 keypoints.
