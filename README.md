@@ -11,8 +11,10 @@ https://drive.google.com/file/d/1jSsbW4bgboCOxa3-duYAeJmJRDlJ-eH1/view?usp=shari
 
 https://drive.google.com/file/d/1JXcYWrNRJ_5SdR8seb7zWXWHOTFoM3aP/view?usp=sharing
 
+Models are investigated in the paper "Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System"
+https://www.mdpi.com/2077-0472/14/11/1890 
+
 ![20230609c396](https://github.com/user-attachments/assets/47790c32-746d-4cf2-b03b-c65243d105fe)
 ![20230609a282](https://github.com/user-attachments/assets/dede25d0-6f33-4f20-8c86-633629121af6)
 
-Models are investigated in the paper "Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System"
-https://www.mdpi.com/2077-0472/14/11/1890 
+
